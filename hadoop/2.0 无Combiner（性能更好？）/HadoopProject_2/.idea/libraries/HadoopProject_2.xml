@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HadoopProject_2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/HadoopProject_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/HadoopProject_2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
